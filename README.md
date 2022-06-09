@@ -1,2 +1,2 @@
 # rock-paper-scicors
-game for Javascript practice.
+this is a follow through with a youtube tutorial to refresh my skills with javascript
